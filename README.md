@@ -1,6 +1,7 @@
 # AIContentModerationProject
 
 CSE 3000 Group 5: AI Content Moderation System Against Hate Speech
+DeepNote Link: https://deepnote.com/workspace/CSE3000-eb173785-231c-48fa-be45-d30e2f0e82e5/project/CSE3000Group5s-Untitled-project-57a6958c-2d0f-476c-bd1f-897947cdbffe/notebook/CSE3000FinalProject-2-afe156e00936402ebc5dd9fe3a52e425?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=57a6958c-2d0f-476c-bd1f-897947cdbffe
 
 Project Plan
 Phase 1
